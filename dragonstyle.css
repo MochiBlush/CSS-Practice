@@ -1,0 +1,50 @@
+#bar {
+    background-color: #f5f5f5;
+    display: block;
+    padding: 10px 10px 5px 10px;
+    
+
+}
+
+
+body{
+    background-image: url("background.jpeg");
+    background-size: cover;
+}
+
+
+#logo {
+    height: 50px;
+}
+
+#name {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 500px;
+}
+
+#nav {
+    text-align: right;
+    font-size: 20px;
+    padding: 0 50px 0 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: none;
+    background-color: #f5f5f5;
+
+
+}
+
+#box {
+    background-color: rgba(5, 5, 5, .5);
+    height: 700px;
+    text-align: left;
+    color: beige;
+    padding: 250px 0 0 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
